@@ -1,10 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-🔭 Currently, I'm immersed in front-end development, crafting visually captivating and user-friendly web experiences.
-🌱 Always learning and growing, I'm diving into the latest design trends and front-end technologies to stay ahead of the curve.
-👯 I'm eager to collaborate on innovative front-end projects that push the boundaries of design and user experience.
-🤔 Seeking guidance on creating even more impactful and accessible front-end solutions, as well as advancing my front-end development skills.
-🧠 I'm also fascinated by Midjourney, a generative artificial intelligence, and I'm currently exploring its capabilities and applications.
-💬 Ask me about my journey from graphic communications to front-end web development!
-📫 Reach me at tramy.w@gmail.com to discuss front-end development, design, or anything under the sun!
-⚡ Fun fact: When I'm not coding, you can find me experimenting in the kitchen or enjoying a good cup of coffee!
+## 🧑🏻‍💻 This is Tramy
+
+🔥 Diving deep into **front-end development**, I specialize in crafting **eye-catching, user-friendly websites**. I stay ahead with the latest design trends and technologies to create innovative solutions that push the boundaries of **design** and **user experience**. 🚀
+
+🌟 Eager to collaborate on groundbreaking projects that challenge the norm, I aim to make front-end solutions more impactful and accessible. My fascination with Midjourney, a cutting-edge **generative AI**, fuels my exploration of its potential applications. 🤖
+
+💡 Curious about my journey from **graphic design** to front-end web development? When I'm not coding, you'll find me whipping up new recipes in the kitchen or savoring a delicious cup of coffee. ☕️
+
+✉️ Reach out at tramy.w@gmail.com to discuss front-end development, design, or anything under the sun!
+
+## 🔗 Links
+
+Check out some of my projects:
+-   [**Jo Jack Home**](https://final-project-jo-jack-home.vercel.app/) aggregates pet adoption listings, streamlining the search for the perfect furry companion. (Collaborated with @mingmanyuen, @AliceLOOOO and @chiukiu)
+-   [**Currency Converter**](https://currency-converter-black-nine.vercel.app), an automatic currency converter Chrome extension! Effortlessly updated rates and instant adjustments when you swap currencies. (Collaborated with @qwerac388)
+-   Some challenges by Frontend Mentor: [**Four card feature section**](https://vercel.com/tramys-projects/project3-four-card-feature-section-master), [**Social proof section**](https://project2-social-proof-section-master.vercel.app). Implemented responsive design practices to create visually appealing and user-friendly websites, adhering to assigned design guidelines.
+-   And don't forget to checkout my [**Graphic Design Portfolios**](https://tramyw.com) to get a better sense of my work!!
+
+
+
