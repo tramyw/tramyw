@@ -16,7 +16,7 @@ Check out some of my projects:
 -   [**Jo Jack Home**](https://final-project-jo-jack-home.vercel.app/) aggregates pet adoption listings, streamlining the search for the perfect furry companion. (Collaborated with @mingmanyuen, @AliceLOOOO and @chiukiu)
 -   [**Currency Converter**](https://currency-converter-black-nine.vercel.app), an automatic currency converter Chrome extension! Effortlessly updated rates and instant adjustments when you swap currencies. (Collaborated with @qwerac388)
 -   [**Four card feature section**](https://vercel.com/tramys-projects/project3-four-card-feature-section-master), [**Social proof section**](https://project2-social-proof-section-master.vercel.app) -- some challenges by Frontend Mentor which implemented responsive design practices to create visually appealing and user-friendly websites, adhering to assigned design guidelines.
--   And don't forget to checkout my [**Graphic Design Portfolios**](https://tramy.carbonmade.com) to get a better sense of my work!!
+-   And don't forget to checkout my [**Graphic Design Portfolios**](https://tramyw.com) to get a better sense of my work!!
 
 
 
