@@ -28,11 +28,11 @@ Check out some of my projects:
 -  PolyU - COPAR for COVID
 -  Prince Touch TW
 ### 2021
--  #MobileApp Life Pillars
+-  **#MobileApp** Life Pillars
 -  Office of Student Affairs(OSA), CUHK - Orientation
 -  Faculty of Medicine, CUHK - MSc in Medical Laboratory Sciences(MLS)
 -  Office of Research and Knowledge Transfer Services(ORKTS), CUHK
--  #eForm Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
+-  **#eForm** Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
 -  School of Continuing Education(SCE), HKBU - SEN Services
 -  Diversity and Inclusion Office(DIO), CUHK - D&I Passport
 ### 2020
