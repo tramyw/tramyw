@@ -20,14 +20,14 @@ Check out some of my projects:
 
 ## ❇️ Web Projects 
 
-2024
+### 2024
 -  Web3 Dev Asia - i/FO Innovation For Tomorrow conference
-2023 
+### 2023 
 -  Education Convergence - The Hong Kong Heritage Pass Museum Studies Award Scheme
-2022
+### 2022
 -  PolyU - COPAR for COVID
 -  Prince Touch TW
-2021
+### 2021
 -  #MobileApp Life Pillars
 -  Office of Student Affairs(OSA), CUHK - Orientation
 -  Faculty of Medicine, CUHK - MSc in Medical Laboratory Sciences(MLS)
@@ -35,7 +35,7 @@ Check out some of my projects:
 -  #eForm Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
 -  School of Continuing Education(SCE), HKBU - SEN Services
 -  Diversity and Inclusion Office(DIO), CUHK - D&I Passport
-2020
+### 2020
 -  Office of Student Affairs(OSA), CUHK - Orientation
 -  CUHK MoCC - Jockey Club Museum of Climate Change
 -  Fruitful Life Training Workshop
