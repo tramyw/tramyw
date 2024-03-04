@@ -18,5 +18,24 @@ Check out some of my projects:
 -   [**Four card feature section**](https://vercel.com/tramys-projects/project3-four-card-feature-section-master), [**Social proof section**](https://project2-social-proof-section-master.vercel.app) -- some challenges by Frontend Mentor which implemented responsive design practices to create visually appealing and user-friendly websites, adhering to assigned design guidelines.
 -   And don't forget to checkout my [**Graphic Design Portfolios**](https://tramyw.com) to get a better sense of my work!!
 
+## ❇️ Web Projects 
 
-
+2024
+-  Web3 Dev Asia - i/FO Innovation For Tomorrow conference
+2023 
+-  Education Convergence - The Hong Kong Heritage Pass Museum Studies Award Scheme
+2022
+-  PolyU - COPAR for COVID
+-  Prince Touch TW
+2021
+-  #MobileApp Life Pillars
+-  Office of Student Affairs(OSA), CUHK - Orientation
+-  Faculty of Medicine, CUHK - MSc in Medical Laboratory Sciences(MLS)
+-  Office of Research and Knowledge Transfer Services(ORKTS), CUHK
+-  #eForm Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
+-  School of Continuing Education(SCE), HKBU - SEN Services
+-  Diversity and Inclusion Office(DIO), CUHK - D&I Passport
+2020
+-  Office of Student Affairs(OSA), CUHK - Orientation
+-  CUHK MoCC - Jockey Club Museum of Climate Change
+-  Fruitful Life Training Workshop
