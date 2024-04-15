@@ -29,7 +29,7 @@ Check out some of my projects:
 -  Prince Touch TW
 ### 2021
 -  **#MobileApp** Life Pillars
--  Office of Student Affairs(OSA), CUHK - Orientation
+-  [**Office of Student Affairs(OSA), CUHK - Orientation**](https://tramyw.com/projects/7269821)
 -  Faculty of Medicine, CUHK - MSc in Medical Laboratory Sciences(MLS)
 -  Office of Research and Knowledge Transfer Services(ORKTS), CUHK
 -  **#eForm** Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
