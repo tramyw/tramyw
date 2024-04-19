@@ -21,22 +21,23 @@ Check out some of my projects:
 ## ❇️ Web Projects 
 
 ### 2024
--  [**Web3 Dev Asia - i/FO Innovation For Tomorrow Conference**](https://tramyw.com/projects/7269867)
+-  Web3 Dev Asia - [**i/Fo Innovation For Tomorrow Conference**](https://tramyw.com/projects/7269867)
 ### 2023 
 -  Education Convergence - The Hong Kong Heritage Pass Museum Studies Award Scheme
 ### 2022
--  [**The School of Nursing, The Hong Kong Polytechnic University - COPAR for COVID**]()
+-  The School of Nursing, The Hong Kong Polytechnic University - [**COPAR for COVID**]()
 -  Office of Student Affairs(OSA), CUHK - Orientation 2022
--  [**Prince Touch TW**](https://tramyw.com/projects/7269886)
+-  [**Prince Touch TW - Offficial Website**](https://tramyw.com/projects/7269886)
 ### 2021
--  **#MobileApp** Life Pillars
--  [**Office of Student Affairs(OSA), CUHK - Orientation 2021**](https://tramyw.com/projects/7269821)
+-  AquaTek - Official Website
+-  Life Pillars - Mobile App
+-  Office of Student Affairs(OSA), CUHK - [**Orientation 2021**](https://tramyw.com/projects/7269821)
 -  Faculty of Medicine, CUHK - MSc in Medical Laboratory Sciences(MLS)
 -  Office of Research and Knowledge Transfer Services(ORKTS), CUHK
--  **#eForm** Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
+-  Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
 -  School of Continuing Education(SCE), HKBU - SEN Services
 -  Diversity and Inclusion Office(DIO), CUHK - D&I Passport
 ### 2020
 -  Office of Student Affairs(OSA), CUHK - Orientation 2020
 -  CUHK MoCC - Jockey Club Museum of Climate Change
--  [**Fruitful Life Training Workshop**](https://tramyw.com/projects/7255384)
+- Fruitful Life Training Workshop - [**Official Website**](https://tramyw.com/projects/7255384)
