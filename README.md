@@ -21,7 +21,7 @@ Check out some of my projects:
 ## ❇️ Web Projects 
 
 ### 2024
--  [**Web3 Dev Asia - i/FO Innovation For Tomorrow conference**](https://tramyw.com/projects/7269867)
+-  [**Web3 Dev Asia - i/FO Innovation For Tomorrow Conference**](https://tramyw.com/projects/7269867)
 ### 2023 
 -  Education Convergence - The Hong Kong Heritage Pass Museum Studies Award Scheme
 ### 2022
