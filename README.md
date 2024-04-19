@@ -25,17 +25,18 @@ Check out some of my projects:
 ### 2023 
 -  Education Convergence - The Hong Kong Heritage Pass Museum Studies Award Scheme
 ### 2022
--  [**PolyU - COPAR for COVID**]()
+-  [**The School of Nursing, The Hong Kong Polytechnic University - COPAR for COVID**]()
+-  Office of Student Affairs(OSA), CUHK - Orientation 2022
 -  [**Prince Touch TW**](https://tramyw.com/projects/7269886)
 ### 2021
 -  **#MobileApp** Life Pillars
--  [**Office of Student Affairs(OSA), CUHK - Orientation**](https://tramyw.com/projects/7269821)
+-  [**Office of Student Affairs(OSA), CUHK - Orientation 2021**](https://tramyw.com/projects/7269821)
 -  Faculty of Medicine, CUHK - MSc in Medical Laboratory Sciences(MLS)
 -  Office of Research and Knowledge Transfer Services(ORKTS), CUHK
 -  **#eForm** Centre of Development and Resources for Students(CEDARS), HKU - DropPicker Career Library
 -  School of Continuing Education(SCE), HKBU - SEN Services
 -  Diversity and Inclusion Office(DIO), CUHK - D&I Passport
 ### 2020
--  Office of Student Affairs(OSA), CUHK - Orientation
+-  Office of Student Affairs(OSA), CUHK - Orientation 2020
 -  CUHK MoCC - Jockey Club Museum of Climate Change
 -  [**Fruitful Life Training Workshop**](https://tramyw.com/projects/7255384)
